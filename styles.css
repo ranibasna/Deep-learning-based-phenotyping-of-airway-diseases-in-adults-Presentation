@@ -1,0 +1,34 @@
+
+.reveal section p {
+    font-size: 0.5em;
+}
+
+.reveal section pre code {
+    font-size: 0.7em;
+}
+
+/* .reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+}
+
+
+.footer {
+    color: black; background: white;
+    position: fixed; top: 20%;
+    text-align:left; width:100%;
+}
+
+
+/* Style/position the footer text */
+#header-footer .slide-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    text-align: center;
+    font-size: 65%;
+}

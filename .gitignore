@@ -1,0 +1,8 @@
+# Ignore these directories:
+
+
+# Ignore temporary files:
+# .log.tmp
+DEC_Embedding_airway_df.csv
+result_airway_uft_DEC.csv
+umap_auto_embedding_df.csv
